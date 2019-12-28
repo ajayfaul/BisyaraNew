@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.mulyadifamily.bisyaraapp">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".Bulan_DesemberActivity"></activity>
+        <activity android:name=".Bulan_NovemberActivity" />
+        <activity android:name=".Bulan_OktoberActivity" />
+        <activity android:name=".Bulan_SeptemberActivity" />
+        <activity android:name=".Bulan_AgustusActivity" />
+        <activity android:name=".Bulan_JuliActivity" />
+        <activity android:name=".Bulan_JuniActivity" />
+        <activity android:name=".Bulan_MeiActivity" />
+        <activity android:name=".Bulan_AprilActivity" />
+        <activity android:name=".Bulan_MaretActivity" />
+        <activity android:name=".Bulan_FebruariActivity" />
+        <activity android:name=".Bulan_JanuariActivity" />
+        <activity
+            android:name=".Angka_20Activity"
+            android:parentActivityName=".AngkaActivity" />
+        <activity
+            android:name=".Angka_19Activity"
+            android:parentActivityName=".AngkaActivity" />
+        <activity
+            android:name=".Angka_18Activity"
+            android:parentActivityName=".AngkaActivity" />
+        <activity
+            android:name=".Angka_17Activity"
+            android:parentActivityName=".AngkaActivity" />
+        <activity
+            android:name=".Angka_16Activity"
+            android:parentActivityName=".AngkaActivity" />
+        <activity
+            android:name=".Angka_15Activity"
+            android:parentActivityName=".AngkaActivity" />
+        <activity
+            android:name=".Angka_14Activity"
+            android:parentActivityName=".AngkaActivity" />
+        <activity
+            android:name=".Angka_13Activity"
+            android:parentActivityName=".AngkaActivity" />
+        <activity
+            android:name=".Angka_12Activity"
+            android:parentActivityName=".AngkaActivity" />
+        <activity
+            android:name=".Angka_11Activity"
+            android:parentActivityName=".AngkaActivity" />
+        <activity
+            android:name=".Angka_10Activity"
+            android:parentActivityName=".AngkaActivity" />
+        <activity
+            android:name=".Angka_9Activity"
+            android:parentActivityName=".AngkaActivity" />
+        <activity
+            android:name=".Angka_8Activity"
+            android:parentActivityName=".AngkaActivity" />
+        <activity
+            android:name=".Angka_7Activity"
+            android:parentActivityName=".AngkaActivity" />
+        <activity
+            android:name=".Angka_6Activity"
+            android:parentActivityName=".AngkaActivity" />
+        <activity
+            android:name=".Angka_5Activity"
+            android:parentActivityName=".AngkaActivity" />
+        <activity
+            android:name=".Angka_4Activity"
+            android:parentActivityName=".AngkaActivity" />
+        <activity
+            android:name=".Angka_3Activity"
+            android:parentActivityName=".AngkaActivity" />
+        <activity
+            android:name=".Angka_2Activity"
+            android:parentActivityName=".AngkaActivity" />
+        <activity
+            android:name=".Angka_1Activity"
+            android:parentActivityName=".AngkaActivity" />
+        <activity
+            android:name=".abjad_Z_Activity"
+            android:parentActivityName=".AbjadActivity" />
+        <activity
+            android:name=".abjad_Y_Activity"
+            android:parentActivityName=".AbjadActivity" />
+        <activity
+            android:name=".abjad_X_Activity"
+            android:parentActivityName=".AbjadActivity" />
+        <activity
+            android:name=".abjad_W_Activity"
+            android:parentActivityName=".AbjadActivity" />
+        <activity
+            android:name=".abjad_V_Activity"
+            android:parentActivityName=".AbjadActivity" />
+        <activity
+            android:name=".abjad_U_Activity"
+            android:parentActivityName=".AbjadActivity" />
+        <activity
+            android:name=".abjad_T_Activity"
+            android:parentActivityName=".AbjadActivity" />
+        <activity
+            android:name=".abjad_S_Activity"
+            android:parentActivityName=".AbjadActivity" />
+        <activity
+            android:name=".abjad_R_Activity"
+            android:parentActivityName=".AbjadActivity" />
+        <activity
+            android:name=".abjad_Q_Activity"
+            android:parentActivityName=".AbjadActivity" />
+        <activity
+            android:name=".abjad_P_Activity"
+            android:parentActivityName=".AbjadActivity" />
+        <activity
+            android:name=".abjad_O_Activity"
+            android:parentActivityName=".AbjadActivity" />
+        <activity
+            android:name=".abjad_N_Activity"
+            android:parentActivityName=".AbjadActivity" />
+        <activity
+            android:name=".abjad_M_Activity"
+            android:parentActivityName=".AbjadActivity" />
+        <activity
+            android:name=".abjad_L_Activity"
+            android:parentActivityName=".AbjadActivity" />
+        <activity
+            android:name=".abjad_K_Activity"
+            android:parentActivityName=".AbjadActivity" />
+        <activity
+            android:name=".abjad_J_Activity"
+            android:parentActivityName=".AbjadActivity" />
+        <activity
+            android:name=".abjad_I_Activity"
+            android:parentActivityName=".AbjadActivity" />
+        <activity
+            android:name=".abjad_H_Activity"
+            android:parentActivityName=".AbjadActivity" />
+        <activity
+            android:name=".abjad_G_Activity"
+            android:parentActivityName=".AbjadActivity" />
+        <activity
+            android:name=".abjad_F_Activity"
+            android:parentActivityName=".AbjadActivity" />
+        <activity
+            android:name=".abjad_E_Activity"
+            android:parentActivityName=".AbjadActivity" />
+        <activity
+            android:name=".abjad_D_Activity"
+            android:parentActivityName=".AbjadActivity" />
+        <activity
+            android:name=".abjad_C_Activity"
+            android:parentActivityName=".AbjadActivity" />
+        <activity
+            android:name=".abjad_B_Activity"
+            android:parentActivityName=".AbjadActivity" />
+        <activity android:name=".WarnaActivity" />
+        <activity android:name=".TanyaActivity" />
+        <activity
+            android:name=".kataSifatActivity"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".BulanActivity"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".HariActivity"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".AngkaActivity"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".abjad_A_Activity"
+            android:parentActivityName=".AbjadActivity" />
+        <activity
+            android:name=".AbjadActivity"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".SplashscreenActivity"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".MainActivity"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+    </application>
+
+</manifest>
