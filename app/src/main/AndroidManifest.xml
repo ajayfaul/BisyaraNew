@@ -11,29 +11,55 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".Bulan_DesemberActivity"
+        <activity android:name=".Hari_Kamis"
+            android:parentActivityName=".HariActivity" ></activity>
+        <activity android:name=".Hari_Rabu"
+            android:parentActivityName=".HariActivity" />
+        <activity android:name=".Hari_Selasa"
+            android:parentActivityName=".HariActivity" />
+        <activity android:name=".Hari_Senin"
+            android:parentActivityName=".HariActivity" />
+        <activity android:name=".Hari_Minggu"
+            android:parentActivityName=".HariActivity" />
+        <activity android:name=".Hari_Sabtu"
+            android:parentActivityName=".HariActivity" />
+        <activity android:name=".Hari_Jumat"
+            android:parentActivityName=".HariActivity" />
+        <activity
+            android:name=".Bulan_DesemberActivity"
             android:parentActivityName=".BulanActivity" />
-        <activity android:name=".Bulan_NovemberActivity"
+        <activity
+            android:name=".Bulan_NovemberActivity"
             android:parentActivityName=".BulanActivity" />
-        <activity android:name=".Bulan_OktoberActivity"
+        <activity
+            android:name=".Bulan_OktoberActivity"
             android:parentActivityName=".BulanActivity" />
-        <activity android:name=".Bulan_SeptemberActivity"
+        <activity
+            android:name=".Bulan_SeptemberActivity"
             android:parentActivityName=".BulanActivity" />
-        <activity android:name=".Bulan_AgustusActivity"
+        <activity
+            android:name=".Bulan_AgustusActivity"
             android:parentActivityName=".BulanActivity" />
-        <activity android:name=".Bulan_JuliActivity"
+        <activity
+            android:name=".Bulan_JuliActivity"
             android:parentActivityName=".BulanActivity" />
-        <activity android:name=".Bulan_JuniActivity"
+        <activity
+            android:name=".Bulan_JuniActivity"
             android:parentActivityName=".BulanActivity" />
-        <activity android:name=".Bulan_MeiActivity"
+        <activity
+            android:name=".Bulan_MeiActivity"
             android:parentActivityName=".BulanActivity" />
-        <activity android:name=".Bulan_AprilActivity"
+        <activity
+            android:name=".Bulan_AprilActivity"
             android:parentActivityName=".BulanActivity" />
-        <activity android:name=".Bulan_MaretActivity"
+        <activity
+            android:name=".Bulan_MaretActivity"
             android:parentActivityName=".BulanActivity" />
-        <activity android:name=".Bulan_FebruariActivity"
+        <activity
+            android:name=".Bulan_FebruariActivity"
             android:parentActivityName=".BulanActivity" />
-        <activity android:name=".Bulan_JanuariActivity"
+        <activity
+            android:name=".Bulan_JanuariActivity"
             android:parentActivityName=".BulanActivity" />
         <activity
             android:name=".Angka_20Activity"
