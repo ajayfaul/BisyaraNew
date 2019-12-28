@@ -23,7 +23,7 @@ tools:context=".abjad_C_Activity">
     android:layout_below="@+id/gif"
     android:layout_marginLeft="20dp"
     android:layout_marginRight="20dp"
-    android:text="@string/huruf_a"
+    android:text="@string/huruf_c"
     android:textColor="#000"></TextView>
 
 </RelativeLayout>
