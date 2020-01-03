@@ -11,21 +11,34 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".Warna_Kuning"
-            android:parentActivityName=".WarnaActivity" ></activity>
-        <activity android:name=".Warna_Ungu"
+        <activity android:name=".kata_3_Activity"></activity>
+        <activity android:name=".kata_2_Activity" />
+        <activity android:name=".kata_1_Activity" />
+        <activity android:name=".Kata_Activity" />
+        <activity android:name=".PercakapanActivity" />
+        <activity
+            android:name=".Warna_Kuning"
             android:parentActivityName=".WarnaActivity" />
-        <activity android:name=".Warna_Putih"
+        <activity
+            android:name=".Warna_Ungu"
             android:parentActivityName=".WarnaActivity" />
-        <activity android:name=".Warna_Emas"
+        <activity
+            android:name=".Warna_Putih"
             android:parentActivityName=".WarnaActivity" />
-        <activity android:name=".Warna_Hitam"
+        <activity
+            android:name=".Warna_Emas"
             android:parentActivityName=".WarnaActivity" />
-        <activity android:name=".Warna_HIjau"
+        <activity
+            android:name=".Warna_Hitam"
             android:parentActivityName=".WarnaActivity" />
-        <activity android:name=".Warna_Merah"
+        <activity
+            android:name=".Warna_HIjau"
             android:parentActivityName=".WarnaActivity" />
-        <activity android:name=".Warna_Biru"
+        <activity
+            android:name=".Warna_Merah"
+            android:parentActivityName=".WarnaActivity" />
+        <activity
+            android:name=".Warna_Biru"
             android:parentActivityName=".WarnaActivity" />
         <activity
             android:name=".Tanya_Siapa"
@@ -240,8 +253,9 @@
         <activity
             android:name=".abjad_B_Activity"
             android:parentActivityName=".AbjadActivity" />
-        <activity android:name=".WarnaActivity"
-            android:parentActivityName=".MainActivity"/>
+        <activity
+            android:name=".WarnaActivity"
+            android:parentActivityName=".MainActivity" />
         <activity
             android:name=".TanyaActivity"
             android:parentActivityName=".MainActivity" />

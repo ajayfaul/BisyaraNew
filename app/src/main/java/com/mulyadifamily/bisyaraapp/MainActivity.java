@@ -97,8 +97,8 @@ public class MainActivity extends AppCompatActivity {
         dashboardList.add(new dashboard(R.drawable.hari,"Nama Hari"));
         dashboardList.add(new dashboard(R.drawable.tanya,"Kata Tanya"));
         dashboardList.add(new dashboard(R.drawable.warna,"Warna"));
-
-
+        dashboardList.add(new dashboard(R.drawable.ic_chat,"Percakapan"));
+        dashboardList.add(new dashboard(R.drawable.ic_talk,"Kata Sehari-hari"));
 
         adapter.notifyDataSetChanged();
     }
@@ -168,6 +168,16 @@ public class MainActivity extends AppCompatActivity {
 
     public void pindahsifat(View view) {
         Intent intent = new Intent(MainActivity.this, TanyaActivity.class);
+        startActivity(intent);
+    }
+
+    public void pindahcakap(View view) {
+        Intent intent = new Intent(MainActivity.this, PercakapanActivity.class);
+        startActivity(intent);
+    }
+
+    public void pindahsehari(View view) {
+        Intent intent = new Intent(MainActivity.this, Kata_Activity.class);
         startActivity(intent);
     }
 }

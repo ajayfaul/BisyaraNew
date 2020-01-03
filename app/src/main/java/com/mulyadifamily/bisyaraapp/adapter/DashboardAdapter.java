@@ -14,6 +14,8 @@ import androidx.recyclerview.widget.RecyclerView;
 import com.bumptech.glide.Glide;
 import com.mulyadifamily.bisyaraapp.AbjadActivity;
 import com.mulyadifamily.bisyaraapp.AngkaActivity;
+import com.mulyadifamily.bisyaraapp.Kata_Activity;
+import com.mulyadifamily.bisyaraapp.PercakapanActivity;
 import com.mulyadifamily.bisyaraapp.R;
 import com.mulyadifamily.bisyaraapp.BulanActivity;
 import com.mulyadifamily.bisyaraapp.HariActivity;
@@ -85,6 +87,13 @@ public class DashboardAdapter extends RecyclerView.Adapter<DashboardAdapter.MyVi
                     case 5 :
                         intent = new Intent(mContext, WarnaActivity.class);
                         break;
+                    case 6 :
+                        intent = new Intent(mContext, PercakapanActivity.class);
+                        break;
+                    case 7 :
+                        intent = new Intent(mContext, Kata_Activity.class);
+                        break;
+
                 }
                 mContext.startActivity(intent);
             }
