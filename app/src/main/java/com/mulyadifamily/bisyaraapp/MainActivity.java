@@ -167,7 +167,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void pindahsifat(View view) {
-        Intent intent = new Intent(MainActivity.this, kataSifatActivity.class);
+        Intent intent = new Intent(MainActivity.this, TanyaActivity.class);
         startActivity(intent);
     }
 }
