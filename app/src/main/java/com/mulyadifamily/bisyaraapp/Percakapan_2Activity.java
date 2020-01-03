@@ -4,12 +4,12 @@ import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
 
-public class kata_3_Activity extends AppCompatActivity {
+public class Percakapan_2Activity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_kata_3);
-        setTitle("Nama saya Faldi");
+        setContentView(R.layout.activity_percakapan_2);
+        setTitle("Dimana Rumah Kamu");
     }
 }

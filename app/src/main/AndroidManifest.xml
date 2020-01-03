@@ -11,11 +11,22 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".kata_3_Activity"></activity>
-        <activity android:name=".kata_2_Activity" />
-        <activity android:name=".kata_1_Activity" />
-        <activity android:name=".Kata_Activity" />
-        <activity android:name=".PercakapanActivity" />
+        <activity android:name=".Percakapan_3Activity"
+            android:parentActivityName=".PercakapanActivity" ></activity>
+        <activity android:name=".Percakapan_2Activity"
+            android:parentActivityName=".PercakapanActivity" />
+        <activity android:name=".Percakapan_1Activity"
+            android:parentActivityName=".PercakapanActivity" />
+        <activity android:name=".kata_3_Activity"
+            android:parentActivityName=".Kata_Activity" />
+        <activity android:name=".kata_2_Activity"
+            android:parentActivityName=".Kata_Activity" />
+        <activity android:name=".kata_1_Activity"
+            android:parentActivityName=".Kata_Activity" />
+        <activity android:name=".Kata_Activity"
+            android:parentActivityName=".MainActivity" />
+        <activity android:name=".PercakapanActivity"
+            android:parentActivityName=".MainActivity" />
         <activity
             android:name=".Warna_Kuning"
             android:parentActivityName=".WarnaActivity" />
