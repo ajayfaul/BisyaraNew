@@ -6,7 +6,6 @@
     android:orientation="vertical"
     tools:context=".abjad_M_Activity">
 
-
     <pl.droidsonroids.gif.GifImageView
         android:id="@+id/gif"
         android:layout_width="250dp"
