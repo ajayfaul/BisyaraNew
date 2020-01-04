@@ -1,5 +1,6 @@
 <resources>
     <string name="app_name">Bisyara</string>
+
     <string name="huruf_a">Huruf A dalam kamus Sibi, caranya adalah dengan meknggerakan mengepalkan tangan</string>
     <string name="huruf_b">Huruf B dalam kamus Sibi, caranya adalah dengan melipat ibu jadi ke depan</string>
     <string name="huruf_c">Huruf C dalam kamus Sibi, caranya adalah dengan membentuk c dengan telapak tangan</string>
@@ -26,6 +27,7 @@
     <string name="huruf_X">Huruf X dalam kamus Sibi, caranya dengan membentuk huruf c dengan jari telunjuk dan ibu jari</string>
     <string name="huruf_Y">Huruf Y dalam kamus Sibi, caranya dengan menunjukan jari teunjuk dantengah ke aas, sementara sisanya diipat</string>
     <string name="huruf_Z">Huruf Z dalam kamus Sibi, caranya meggunakan jari telunjuk untuk membentuk hururf z</string>
+
     <string name="angka_1">Angaka 1 dalam kamus Sibi, caranya dengan mengepakan tangan dengan menunjukan jari telunjuk</string>
     <string name="angka_2">Angaka 2 dalam kamus Sibi, caranya dengan mengepakan tangan dengan menunjukan jari telunjuk dan jari tengah</string>
     <string name="angka_3">Angaka 3 dalam kamus Sibi, caranya dengan mengepakan tangan dengan menunjukan jari telunjuk, jari tengah dan ibu jari</string>
@@ -36,11 +38,53 @@
     <string name="angka_8">Angaka 8 dalam kamus Sibi, caranya dengan menempelkan ibu jari dengan jari tengah</string>
     <string name="angka_9">Angaka 9 dalam kamus Sibi, caranya dengan menempelkan lalu menggerakan tangan dari kiri ke kanan</string>
     <string name="angka_10">Angaka 10 dalam kamus Sibi, caranya dengan menempelkan lalu menggerakan tangan dari kiri ke kanan</string>
+    <string name="angka_11">Angaka 11 dalam kamus Sibi, caranya mengepalkan tangan, lalu jari telunjuk dan jempol membentuk huruf c sambil menggerakan kedua jari tersebut</string>
+    <string name="angka_12">Angaka 12 dalam kamus Sibi, caranya mengepalkan tangan, bentuk angka dua dengan jari telunjuk dan tengah, lalu gerakan ke kiri dan kanan</string>
+    <string name="angka_13">Angaka 12 dalam kamus Sibi, caranya melipat jari manis dan kelingking, lalu menggerakan tangan ke kiri dan kanan</string>
+    <string name="angka_14">Angaka 14 dalam kamus Sibi, caranya melipat ibu jari ke dalam lalu memutar tangan ke kiri dan kanan</string>
+    <string name="angka_15">Angaka 15 dalam kamus Sibi, caranya hanya perlu memutarkan telapak tangan ke kiri dan kanan</string>
+    <string name="angka_16">Angaka 16 dalam kamus Sibi, caranya dengan menempekan ibu jari dengan kelingking lalu memutarkannya ke kiri dan kanan</string>
+    <string name="angka_17">Angaka 16 dalam kamus Sibi, caranya dengan menempekan ibu jari dengan jari manis lalu memutarkannya ke kiri dan kanan</string>
+    <string name="angka_18">Angaka 16 dalam kamus Sibi, caranya dengan menempekan ibu jari dengan jari tengah lalu memutarkannya ke kiri dan kanan</string>
+    <string name="angka_19">Angaka 16 dalam kamus Sibi, caranya dengan menempekan ibu jari dengan telunjuk lalu memutarkannya ke kiri dan kanan</string>
+    <string name="angka_20">Angaka 16 dalam kamus Sibi, caranya dengan menempelkan ibu jari denga jari manis, lalu mengerakan jari tengah dan telunjuk</string>
+
     <string name="agustus">penyebutan bulan agustus dengan mengkerakan jari telunjuk melewati jari telapak tangan kanan</string>
     <string name="april">penyebutan bulan april dengan mengkerakan kepalan tangan kiri melewati telapak tangan kanan</string>
     <string name="desember">penyebutan bulan desember dengan mengkerakan tangan kanan samil menunjuk ke atas melewati telapak tangan kiri</string>
     <string name="februari">penyebutan bulan februaridengan mengkerakan tangan kanan samil menyatukan ibu jari dan jari telunjul lalu melewati telapak tangan kiri</string>
     <string name="januari">penyebutan bulan februari dengan mengkerakan jari kelingking tangan kanan melewati telapak tangan kiri</string>
-    <string name="juli">penyebutan bulan Juli dengan mengkerakan tangan kanan membentuk L melewati telapak tangan kiri</string>
-    <string name="juni">penyebutan bulan Juni dengan mengkerakan tangan kanan membentuk L melewati telapak tangan kiri</string>
+    <string name="juli">penyebutan bulan Juli dengan mengkerakan tangan kanan membentuk membentuk L melewati telapak tangan kiri</string>
+    <string name="juni">penyebutan bulan Juni dengan mengkerakan tangan kanan membentuk angka dua dengan ibu jari berdiri melewati telapak tangan kiri</string>
+    <string name="maret">penyebutan bulan Juni dengan mengkerakan tangan kanan membentuk huruf m melewati telapak tangan kiri</string>
+    <string name="mei">penyebutan bulan Juni dengan mengkerakan tangan kanan membentuk huruf o melewati telapak tangan kiri</string>
+    <string name="november">penyebutan bulan Juni dengan mengkerakan tangan kanan membentuk huruf n melewati telapak tangan kiri</string>
+    <string name="oktober">penyebutan bulan Juni dengan mengkerakan tangan kanan membentuk huruf o menghadap kedepan melewati telapak tangan kiri</string>
+    <string name="september">penyebutan bulan Juni dengan mengkerakan tangan kanan membentuk huruf s menghadap kedepan melewati telapak tangan kiri</string>
+
+    <string name="jumat">penyebutan Hari Jumat dalam Sibi adalah dengan menggerakan tangan kanan dengan menutup ibu jari dengan jari telunjuk memutar tangan mmebentuk huurf C</string>
+    <string name="kamis">penyebutan Hari Kamis dalam Sibi adalah dengan menggerakan tangan kanan membentuk dua dengan ibu jari ditengah lamu memutar tangan membentuk huruf CC</string>
+    <string name="minggu">penyebutan Hari minggudalam Sibi adalah dengan menggerakan tangan kanan dengan membentuk huruf m lalu menggerakan tangan membentuk huruf C</string>
+    <string name="rabu">penyebutan Hari Rabu dalam Sibi adalah dengan menggerakan tangan kanan dengan menutup ibu jari dengan jari telunjuk memutar tangan mmebentuk huurf C</string>
+    <string name="sabtu">penyebutan Hari Sabtu dalam Sibi adalah dengan menggerakan tangan kanan dengan melipat ibu jari kedalam lalu memutar tangan mmebentuk huurf C</string>
+    <string name="senin">penyebutan Hari Jumat dalam Sibi adalah dengan menggerakan tangan kanan membentuk huurf S dengan ibu jari dan telunjuk lalu memutar tangan mmebentuk huurf C</string>
+    <string name="selasa">penyebutan Hari Jumat dalam Sibi adalah dengan menggerakan tangan kanan membentuk huurf L dengan ibu jari dan telunjuk lalu memutar tangan mmebentuk huurf C</string>
+
+    <string name="apa">penyebutan kata Apa dalam Sibi adalah dengan membalik telapak tangan</string>
+    <string name="apak">penyebutan kata Apa Kabar dalam Sibi adalah dengan membalik telapak tangan lalu dilanjukan dengan kerakan yang sama tetapi dengna melipat jari kelingking, manis dan ibu jari</string>
+    <string name="bagaimana">penyebutan kata Dimana dalam Sibi adalah dengan membalik telapak tangan kiri dan kanan</string>
+    <string name="dimana">penyebutan kata Dimana dalam Sibi adalah dengan menunjuk tangan dengan tangan kanan, lalu menggerakan tangan kanan sambil menunjuk ke atas</string>
+    <string name="kapan">penyebutan kata Kapan dalam Sibi adalah dengan menggerakan jari telunjuk kanan melingkari jari telunjuk kiri</string>
+    <string name="mengapa">penyebutan kata Mengapa dalam Sibi adalah menunjuk tangan kanan ke kepala lalu dilanjutkan dengan menjauhkan tangan kanan dari kepala</string>
+    <string name="siapa">penyebutan kata Siaap dalam Sibi adalah dengan mendekatkan jempol ke dagu lalu menjauhkannya</string>
+
+    <string name="biru">penyebutan warna Biru dalam Sibi adalah dengan melipat ibu jari lalu menggerakan telapak tangan secara zigzag dari atas ke bawah</string>
+    <string name="emas">penyebutan warna Emas dalam Sibi adalah dengan melipat ibu jari lalu menggerakan telapak tangan secara zigzag dari atas ke bawah</string>
+    <string name="hijau">penyebutan warna Hijau dalam Sibi adalah dengan melipat jari manis, kelingking dan ibu jari, lalu memiringkan tangan (horizontal) lalu menggerakannya secara zigzag dari atas ke bawah</string>
+    <string name="hitam">penyebutan warna Hitam dalam Sibi adalah dengan menunjuk ke alis lalu bergerak ke sisi mata</string>
+    <string name="kuning">penyebutan warna Kuning dalam Sibi adalah dengan melipat jari manis dan kelingking lalu memempatkan ibu jari diantara jari telunjuk dan tengan lalu menggerakannya secara zigzag dari atas ke bawah</string>
+    <string name="merah">penyebutan warna Merahdalam Sibi adalah dengan membentuk huruf m lalu menggerakannya secara zigzag dari atas ke bawah</string>
+    <string name="putih">penyebutan warna Putih dalam Sibi adalah melipat ibu jari dan telunjul, lalu membalikannya ke belakang dan menggerakannya melompat ke depan</string>
+    <string name="ungu">penyebutan warna Ungu dalam Sibi adalah melipat ibu jari ke jari manis dan kelingking , lalu membalikannya ke belakang dan menggerakannya melompat ke depan</string>
+
 </resources>
